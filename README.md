@@ -6,7 +6,7 @@ These are tic-tac-toe games I'd made over the years, one a generic tic-tac-toe g
 *Date last updated/modified:* -
 
 #### SECOND PROJECT (TicTacToeWithBot.py)
-*Date created:* March 2021 | 
+*Date created:* May 2023 | 
 *Date last updated/modified:* -
 
 ## How to run the program
@@ -213,6 +213,7 @@ If you have any bugs, suggestions or any questions regarding this program, send 
 
 
 Or you could alternatively post the issue on github with your error, and anything else, and I'll respond! This program doesn't really rely on external files, so I could work on it far easier if it's posted on github.
+
 
 
 
