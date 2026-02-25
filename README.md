@@ -1,4 +1,4 @@
-# Pseudocode Interpreter
+# Tic-Tac-Toe
 These are tic-tac-toe games I'd made over the years, one a generic tic-tac-toe game designed to play with two players, my first "PROJECT" i'd ever made in python. The other is a tic-tac-toe game that can be played against a computer, with moderate difficulty. Both are terminal based games; first one uses typed inputs, the second one uses keyboard keys (arrows, enter, etc.).
 
 FIRST PROJECT (TicTacToe.py)
@@ -208,6 +208,7 @@ If you have any bugs, suggestions or any questions regarding this program, send 
 
 
 Or you could alternatively post the issue on github with your error, and anything else, and I'll respond! This program doesn't really rely on external files, so I could work on it far easier if it's posted on github.
+
 
 
 
