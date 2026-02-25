@@ -63,38 +63,32 @@ pip install keyboard
 4. *Open the file and enjoy!.*
 
 ## Images
-FIRST PROGRAM
+### FIRST PROGRAM
 
 ![alt text](image-15.png)
 
-SECOND PROGRAM
-Default game
+### SECOND PROGRAM
 
 ![TicTacToeWithBot.py](image-8.png)
+Default game
 
-Playing game // green symbols mean that's where the cursor is, if there's no symbols on selected box, it will show an outlined box
-
-![alt text](image-9.png)  
-
+![alt text](image-9.png) 
 ![alt text](image-10.png)
+Playing game // green symbols mean that's where the cursor is, if there's no symbols on selected box, it will show an outlined box
 
 It picks random colors for the hearts - right hand side indicates color of computer, left hand side is the color of the user. The method by which the scoring is done is explained under How The Program Works
 
+![alt text](image-11.png)
 Draw state
 
-![alt text](image-11.png)
-
+![alt text](image-12.png)
 Win state (computer)
 
-![alt text](image-12.png)
-
+![alt text](image-13.png)
 Win state (user)
 
-![alt text](image-13.png)
-
-How the program looks on VSCode
-
 ![alt text](image-14.png)
+How the program looks on VSCode
 
 Terminal in VSCode seems to vary a lot depending on your computer. In some computers, it may look like this, while in my computer it looks better.
 
@@ -204,5 +198,6 @@ If you have any bugs, suggestions or any questions regarding this program, send 
 
 
 Or you could alternatively post the issue on github with your error, and anything else, and I'll respond! This program doesn't really rely on external files, so I could work on it far easier if it's posted on github.
+
 
 
