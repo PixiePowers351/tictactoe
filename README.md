@@ -35,7 +35,7 @@ If you're downloading the font fami from the link, navigate to Fonts > ttf in th
 
 3. *Check profiles > Default and open it.*
 ![Profiles](image-2.png)
-(note, the aforementioned images will have it show how to change font in Windows Powershell profile, but for most computers, changing default appearance should be enough)
+(note, the aforementioned images will have it show how to change font in Windows Powershell profile, but for most computers, changing default profile's appearance should be enough)
 
 4. Scroll to the very bottom of the menu for *additional settings. In here, click appearance.*
 ![Windows Powershell settings](image-3.png) ![Appearance menu](image-4.png)
@@ -208,6 +208,7 @@ If you have any bugs, suggestions or any questions regarding this program, send 
 
 
 Or you could alternatively post the issue on github with your error, and anything else, and I'll respond! This program doesn't really rely on external files, so I could work on it far easier if it's posted on github.
+
 
 
 
