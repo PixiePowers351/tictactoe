@@ -11,7 +11,7 @@ SECOND PROJECT (TicTacToeWithBot.py)
 
 ## How to run the program
 
-###Prequisites
+### Prequisites
 FIRST PROGRAM, TicTacToe.py does not have any external libraries
 SECOND PROGRAM, TicTacToeWithBot.py uses one external library which are not typically present in a regular python installation. 
 
@@ -20,7 +20,7 @@ SECOND PROGRAM, TicTacToeWithBot.py uses one external library which are not typi
 The bug
 ![Bug image](image.png)
 
-###How To Fix The Emoji display bug on terminal
+### How To Fix The Emoji display bug on terminal
 1. Install JetBrainsMonoNL-Regular.ttf. The font file is included in this repository, as well as [this link](https://www.jetbrains.com/lp/mono/#how-to-install). 
 
 If you're downloading the font fami from the link, navigate to Fonts > ttf in this folder, once unzipped and install JetBrainsMonoNL-Regular.ttf.
@@ -195,3 +195,4 @@ If you have any bugs, suggestions or any questions regarding this program, send 
 
 
 Or you could alternatively post the issue on github with your error, and anything else, and I'll respond! This program doesn't really rely on external files, so I could work on it far easier if it's posted on github.
+
