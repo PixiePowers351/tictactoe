@@ -22,28 +22,28 @@ The bug
 ![Bug image](image.png)
 
 ### How To Fix The Emoji display bug on terminal
-1. Install JetBrainsMonoNL-Regular.ttf. The font file is included in this repository, as well as [this link](https://www.jetbrains.com/lp/mono/#how-to-install). 
+1. *Install JetBrainsMonoNL-Regular.ttf.* The font file is included in this repository, as well as [this link](https://www.jetbrains.com/lp/mono/#how-to-install). 
 
 If you're downloading the font fami from the link, navigate to Fonts > ttf in this folder, once unzipped and install JetBrainsMonoNL-Regular.ttf.
 
-2. Click on the arrow on this screen once you open the program.  This will open the menu on which you can click settings.
+2. *Click on the arrow on this screen once you open the program.*  This will open the menu on which you can click settings.
 ![Click on the v symbol](image-1.png) ![Settings menu](image-2.png)
 
-3. Check profiles > Default and open it.
+3. *Check profiles > Default and open it.*
 ![Profiles](image-2.png)
 (note, the aforementioned images will have it show how to change font in Windows Powershell profile, but for most computers, changing default appearance should be enough)
 
-4. Scroll to the very bottom of the menu for additional settings. In here, click appearance.
+4. Scroll to the very bottom of the menu for *additional settings. In here, click appearance.*
 ![Windows Powershell settings](image-3.png) ![Appearance menu](image-4.png)
 
-5. Select the textbox next to the Font Face to change font. If the font does not show up, click the checkbox to show all fonts, and select JetBrains font.
+5. Select the textbox next to the Font Face to *change font*. If the font does not show up, click the checkbox to show all fonts, and select JetBrains font.
 ![Font Family](image-5.png) ![Change Font](image-6.png) ![Jetbrains](image-7.png)
 
-6. Click save.
+6. *Click save.*
 
-7. Repeat the same steps for terminal, and powershell to ensure both terminals run the program correctly.
+7. *Repeat the same steps for terminal, and powershell* to ensure both terminals run the program correctly.
 
-7. If the font does not change, and it still looks like the bug image;
+7. *If the font does not change,* and it still looks like the bug image;
 - ensure Jetbrains is installed
 - open your program again after closing terminal
 - ensure you have changed appearance of font in default profile, and terminal and powershell
@@ -52,7 +52,7 @@ If you're downloading the font fami from the link, navigate to Fonts > ttf in th
 ---
 1. *Install Python if it is not present in your computer.* The version I have on my machine is python 3.11 available to download [here](https://www.python.org/downloads/release/python-3110/). Other versions of python could work, but I haven't tested it out yet.
 
-2. Ensure you have keyboard library installed on the computer if you're running TicTacToeWithBot.py. If it is not missing, just run this command.
+2. *Ensure you have **keyboard** library* installed on the computer if you're running TicTacToeWithBot.py. If it is missing, just run this command on terminal.
 
 ```
 pip install keyboard
@@ -70,24 +70,30 @@ pip install keyboard
 ### SECOND PROGRAM
 
 ![TicTacToeWithBot.py](image-8.png)
+
 Default game
 
 ![alt text](image-9.png) 
 ![alt text](image-10.png)
+
 Playing game // green symbols mean that's where the cursor is, if there's no symbols on selected box, it will show an outlined box
 
 It picks random colors for the hearts - right hand side indicates color of computer, left hand side is the color of the user. The method by which the scoring is done is explained under How The Program Works
 
 ![alt text](image-11.png)
+
 Draw state
 
 ![alt text](image-12.png)
+
 Win state (computer)
 
 ![alt text](image-13.png)
+
 Win state (user)
 
 ![alt text](image-14.png)
+
 How the program looks on VSCode
 
 Terminal in VSCode seems to vary a lot depending on your computer. In some computers, it may look like this, while in my computer it looks better.
@@ -198,6 +204,7 @@ If you have any bugs, suggestions or any questions regarding this program, send 
 
 
 Or you could alternatively post the issue on github with your error, and anything else, and I'll respond! This program doesn't really rely on external files, so I could work on it far easier if it's posted on github.
+
 
 
 
