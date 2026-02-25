@@ -21,6 +21,10 @@ The bug
 
 ![Bug image](image.png)
 
+How it should look:
+
+![alt text](image-9.png) 
+
 ### How To Fix The Emoji display bug on terminal
 1. *Install JetBrainsMonoNL-Regular.ttf.* The font file is included in this repository, as well as [this link](https://www.jetbrains.com/lp/mono/#how-to-install). 
 
@@ -204,6 +208,7 @@ If you have any bugs, suggestions or any questions regarding this program, send 
 
 
 Or you could alternatively post the issue on github with your error, and anything else, and I'll respond! This program doesn't really rely on external files, so I could work on it far easier if it's posted on github.
+
 
 
 
