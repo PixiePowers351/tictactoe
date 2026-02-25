@@ -209,10 +209,8 @@ I don't usually comment much, because even after not seeing a program for four y
 
 ---
 
-If you have any bugs, suggestions or any questions regarding this program, send an email to me on pixiepowers351@gmail.com with a copy of the files in the compiler folder, specifically the code.txt file and the settings.json file, and i'll be sure to respond in a few days at least, and try to fix it in a week or so. 
+If you have any bugs, suggestions or any questions regarding this program, send an email to me on pixiepowers351@gmail.com, and i'll be sure to respond in a few days at least, and try to fix it in a week or so. Or you could alternatively post the issue on github with your error, and anything else, and I'll respond! This program doesn't really rely on external files, so I could work on it far easier if it's posted on github.
 
-
-Or you could alternatively post the issue on github with your error, and anything else, and I'll respond! This program doesn't really rely on external files, so I could work on it far easier if it's posted on github.
 
 
 
